@@ -42,6 +42,10 @@ body {
     line-height: 1.6;
 }
 
+section {
+    padding: 5em 2em;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -95,3 +99,13 @@ h3 {
     background: var(--clr-accent);
     font-family: var(--ff-secondary);
 }
+
+
+/*header*/
+
+nav {
+    display: none;
+}
+
+
+/* intro section*/
