@@ -118,6 +118,10 @@ nav {
     position: relative;
 }
 
+.section__subtitle--intro {
+    display: inline-block;
+}
+
 .intro__img {
     box-shadow: var(--bs);
 }
